@@ -1,6 +1,8 @@
 # Welcome To ShopComp!
 Welcome Grader. This is our website. Below is the steps on how to operate the website. Please read because there are caveats to our website :)
 
+Below is a video. Please enjoy :)
+
 [![Watch the video](https://img.youtube.com/vi/BXEgU15b7so/0.jpg)](https://youtu.be/BXEgU15b7so)
 
 ## Categories: The Ambiguous, The Menacing?
